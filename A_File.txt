@@ -10,8 +10,4 @@
 
 some other stuff added by win 7 work.
 
-1
-
-2 commit
-
-
+Commit 1
