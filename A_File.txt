@@ -9,14 +9,3 @@
 
 
 some other stuff added by win 7 work.
-
-<<<<<<< HEAD
-Commit 1
-Commit 2
-=======
-1
-
-2 commit
-
->>>>>>> parent of 1ff8aff... commit 1 rollback test
-
