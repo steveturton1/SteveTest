@@ -9,4 +9,8 @@
 
 
 some other stuff added by win 7 work.
+<<<<<<< HEAD
 edited on win 7 to force a conflict.
+=======
+edited in github to force a conflict.
+>>>>>>> 354e561afdd469f2d1d4f5758b07e43856682415
